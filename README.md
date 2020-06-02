@@ -1,2 +1,2 @@
-# arduino-dicas-tutoriais
-Repositório com dicas de Arduino e alguns projetos meus.
+# Tutoriais e dicas de Arduino (e também alguns projetos meus)
+
