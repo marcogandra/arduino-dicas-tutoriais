@@ -1,5 +1,9 @@
 ## Tutoriais, dicas e projetos pessoais com Arduino
 
+<p align="center">
+  <img width="400" height="200" src="https://media.giphy.com/media/v4sOCVX9Dhsv6/giphy.gif">
+</p>
+
 Esse repositório se destina a dois tipos de pessoas: quem não sabe o que é Arduino, mas deseja saber; quem já sabe o que é agora quer dicas de tutorias, canais do youtube, livros etc com intuito de aumentar seus conhecimentos.
 Na pasta "Projetos" irei colocar meus projetos pessoas, com código e sketch(imagem dos componentes conectados ao Arduino) no seguinte fomato: *nome_do_projeto.ino* e *nome_do_project_sketch.png*. Dentro da pasta há subpastas, separando os projetos por tipo.
 
