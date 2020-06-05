@@ -42,4 +42,4 @@ Bom, e caso você tenha o dinheiro e queira comprar um, recomendo as seguintes l
 * [Eletrogate](https://www.eletrogate.com/), novamente, diversos kits e componentes.
 Essas são apenas algumas recomendações. Existem diversas outras lojas brasileiras confiáveis. Dá uma pesquisada aí no Google (mas não esquece de pesquisar a reputação também, para não cair em um golpe). Você também pode procurar alguma loja na sua cidade.
 
-É basicamente isso. Futuramente irei adicionar meus projetos pessoais.
+É basicamente isso. Futuramente irei adicionar mais projetos pessoais.
